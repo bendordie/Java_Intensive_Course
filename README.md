@@ -2,7 +2,7 @@
 
 A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets.
 
-Each repository contains day's subject and checklist.
+Each repository contains day's subject.
 
 ### Days (individual projects)
 * [Day 00: Structures and arrays](https://github.com/bendordie/Java_Intensive_Course/tree/main/day00)
